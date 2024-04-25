@@ -35,3 +35,12 @@ To run the application, make sure you have Java installed on your system. Then, 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+
+2. Navigate to the project directory:
+   ```bash
+   cd <project-directory>
+
+   
+3. Build the gradle application
+   ```bash
+   
